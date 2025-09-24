@@ -1,6 +1,7 @@
 # sleek-bootloader-theme
 A sleek, simple GRUB Bootloader theme
-Originally made by @sandesh236 (Techsan), modded by RaySollium99.
+
+Originally made by @sandesh236 (Techsan), modded by me (RaySollium99).
 
 ## Install
 
